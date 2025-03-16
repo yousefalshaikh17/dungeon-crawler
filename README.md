@@ -23,3 +23,7 @@ While initially a demo, this project allowed me to dive deep into procedural gen
 ### Future Vision
 
 Although this demo won't be published due to its reliance on intellectual property from Persona 3, I plan to build on this procedural generation system and companion mechanics in my own future game projects. This experience has provided me with invaluable insight into game development that will influence my approach to future designs and mechanics.
+
+### Gameplay Demonstration
+
+Due to a problem with video uploads, the demonstration video will be added at a later time.
